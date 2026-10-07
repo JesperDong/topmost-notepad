@@ -1,0 +1,7 @@
+src/bin/
+tests/bin/
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
